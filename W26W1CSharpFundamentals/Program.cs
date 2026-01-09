@@ -16,6 +16,12 @@
             float f = 5.5F;
             decimal m = 5.5M;
             long l = 3454353L;
+
+            var n = 5;
+            //n = "John";
+
+
+            Console.WriteLine(@"Hello ""x"" world");
         }
     }
 }
