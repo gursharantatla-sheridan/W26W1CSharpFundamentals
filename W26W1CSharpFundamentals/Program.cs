@@ -75,6 +75,14 @@
 
             double num = 34536546.532732;
             Console.WriteLine(num.ToString("F3"));
+
+
+            int? aa = null;
+
+            //int aaaa = amount as int;
+
+            Console.Write("Enter subtotal: ");
+            double subtotal = double.Parse(Console.ReadLine());
         }
     }
 
